@@ -1,6 +1,6 @@
 ## keepalived 配置说明
 
-```js
+```shell
 
 global_defs {
     router_id LVS_1
